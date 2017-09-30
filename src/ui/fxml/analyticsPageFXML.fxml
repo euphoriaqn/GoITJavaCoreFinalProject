@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<StackPane xmlns="http://javafx.com/javafx"
+            xmlns:fx="http://javafx.com/fxml"
+            fx:controller="ui.AnalyticsPageController">
+    <VBox>
+
+            <Label>YouTube Analytics</Label>
+            <Button >Go to main page</Button>
+
+        <Label>Выберите задачу:</Label>
+    </VBox>
+
+</StackPane>

@@ -1,0 +1,13 @@
+VBox.startPage {
+    -fx-alignment: CENTER;
+    -fx-spacing: 20;
+    -fx-font-size: 16pt;
+}
+HBox.startPage{
+    -fx-alignment: CENTER;
+    -fx-spacing: 30;
+}
+Button.startPage{
+    -fx-min-height: 100px;
+    -fx-min-width: 200px;
+}
